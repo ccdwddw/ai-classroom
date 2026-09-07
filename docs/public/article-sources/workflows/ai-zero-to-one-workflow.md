@@ -599,6 +599,7 @@ Prompt 见 [附录：主路径 E2E 测试](#主路径-e2e-测试)。
 
 - 站内： [借助 AI 工具设计公司官网：优秀路径与方法](/articles/workflows/ai-website-design)（含多方向 Mockup 选型）
 - 站内： [AI 编程工具快速指南](/articles/tools/ai-coding-tools-guide)（含 AGENTS.md 与 Skills 入门）
+- 站内： [Cursor 三种模式怎么选：Ask / Plan / Agent 日常决策表](/articles/tools/cursor-ask-plan-agent-decision)
 - 站内： [Cursor Rules：给 Agent 的持久化项目约定](/articles/tools/cursor-rules)
 - 站内： [Cursor Skills：查找、安装与协作](/articles/tools/cursor-skills)（含 `webapp-testing` 等 Skill 说明）
 - Skill 目录： [skills.sh](https://skills.sh)（搜索 `webapp-testing` 安装 Playwright 主路径冒烟）

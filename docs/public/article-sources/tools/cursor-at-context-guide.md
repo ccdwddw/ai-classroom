@@ -351,6 +351,7 @@ Prompt 见 [附录：基于 diff 写说明与审查](#基于-diff-写说明与�
 ## 延伸阅读
 
 - 站内：[用 AI 从 0 到 1 做一个项目](/articles/workflows/ai-zero-to-one-workflow)
+- 站内：[Cursor 三种模式怎么选：Ask / Plan / Agent 日常决策表](/articles/tools/cursor-ask-plan-agent-decision)
 - 站内：[Cursor Rules：给 Agent 的持久化项目约定](/articles/tools/cursor-rules)
 - 站内：[Cursor Skills：查找、安装、创建与常用推荐](/articles/tools/cursor-skills)
 - 站内：[AI 辅助的 Git 工作流](/articles/workflows/ai-git-workflow)
